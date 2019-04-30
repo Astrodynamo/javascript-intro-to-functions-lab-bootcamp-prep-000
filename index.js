@@ -1,6 +1,3 @@
-var uppercase;
-var lowercase;
-
 function shout(string) {
   return string.toUpperCase();
 }
