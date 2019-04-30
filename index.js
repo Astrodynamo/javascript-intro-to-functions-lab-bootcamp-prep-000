@@ -1,15 +1,15 @@
 function shout(string) {
-  return string.toUpperCase()
+  return string.toUpperCase();
 }
 
 shout('hello!');
 
 function whisper(string) {
-  return string.toLowerCase()
+  return string.toLowerCase();
 }
 
 whisper('hello!');
 
 function logShout(string) {
-  console.log(string)
+  return console.log(string.toUpperCase);
 }
