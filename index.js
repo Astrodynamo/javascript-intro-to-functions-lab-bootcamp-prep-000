@@ -2,16 +2,16 @@ function shout(string) {
   return string.toUpperCase();
 }
 
-shout('hello!');
+shout('hello');
 
 function whisper(string) {
   return string.toLowerCase();
 }
 
-whisper('HELLO!');
+whisper('HELLO');
 
 function logShout(string) {
   return console.log(string.toUpperCase);
 }
 
-logShout('hello!');
+logShout('hello');
